@@ -1,0 +1,2 @@
+# EFI
+I3 9100F 技嘉B365M小雕 GTX1060 3G 10.13.6 High Sierra
